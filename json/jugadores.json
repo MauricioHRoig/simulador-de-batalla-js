@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Mario",
+        "critico": 27,
+        "evasion": 12,
+        "hp": 100,
+        "urlImagen": "img/mariowin.jpg"
+    },
+    {
+        "nombre": "Luigi",
+        "critico": 13,
+        "evasion": 25,
+        "hp": 100,
+        "urlImagen": "img/luigiwin.jpg"
+    }
+]
